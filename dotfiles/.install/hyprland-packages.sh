@@ -49,6 +49,10 @@ packagesPacman=(
     "tailscale"
     "thunderbird"
     "zsh"
+    "zsh-theme-powerlevel10k"
+    "zsh-autosuggestions"
+    "zsh-completions"
+    "zsh-syntax-highlighting"
 );
 
 packagesYay=(
@@ -63,4 +67,8 @@ packagesYay=(
     "quickemu"
     "quickgui"
     "wps-office"
+    "libreoffice"
+    "protonmail-bridge"
+    "neovide"
+    "syncthing-gtk"
 );

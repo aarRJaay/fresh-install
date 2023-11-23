@@ -71,4 +71,5 @@ packagesYay=(
     "protonmail-bridge"
     "neovide"
     "syncthing-gtk"
+    "obsidian"
 );

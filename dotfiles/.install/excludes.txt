@@ -1,7 +1,0 @@
-.gitignore
-.git
-.install
-README.md
-CHANGELOG
-LICENSE
-install.sh
